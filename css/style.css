@@ -230,9 +230,10 @@ li{
   margin-bottom: 1em;
 }
 @media screen and (max-width:480px){
-  #home .col-md-6 {
+  #home .banner-content {
     padding-top:2.5em !important;
     margin-top: 1em;
+   
   }
  
 }
