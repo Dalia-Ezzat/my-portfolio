@@ -229,6 +229,11 @@ li{
   align-items:center;
   margin-bottom: 1em;
 }
+@media screen and (max-width:480px){
+  #home .col-md-6 {
+    padding-top:4em;
+  }
+}
 @media screen and (max-width:767px) {
   .home-img{
     display: none !important;
