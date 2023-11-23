@@ -231,8 +231,8 @@ li{
 }
 @media screen and (max-width:480px){
   #home .col-md-6 {
-    padding-top:6em;
-     margin: auto;
+   padding-top:4em;
+    margin-top: 1em;
 
   }
 }
