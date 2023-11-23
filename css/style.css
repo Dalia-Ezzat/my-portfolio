@@ -129,7 +129,7 @@ li{
 
 /* =========== start-navbar =========== */
 .navbar {
-  transition: background-color 1.5s; 
+  transition: background-color 1.5s, padding 1.5s; 
   box-shadow: 1.5px 10px 20px rgba(0, 0, 0, 0.307);
   z-index: 999999 !important;
 }
