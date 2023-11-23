@@ -238,12 +238,16 @@ li{
  
 }
 @media screen and (max-width:767px) {
-  #home.home-img{
+#home .home-img{
     display: none !important;
 }
 #home .banner-conten{
   align-items:center;
   justify-content: center;
+  padding-top:1em !important;
+  margin-bottom:1em !important;
+  
+
 }
 }
 
