@@ -238,11 +238,12 @@ li{
  
 }
 @media screen and (max-width:767px) {
-  .home-img{
+  #home.home-img{
     display: none !important;
 }
-#home .col-md-6 {
-  padding-top:3em;
+#home .banner-conten{
+  align-items:center;
+  justify-content: center;
 }
 }
 
