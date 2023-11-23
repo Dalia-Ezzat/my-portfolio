@@ -257,20 +257,6 @@ li{
 }
 }
 
-@media screen and (max-width:320px) {
-  #home .home-img{
-      display: none !important;
-  }
-  #home .banner-conten{
-    align-items:center;
-    justify-content: center;
-    margin-bottom:-20em !important;
-    
-  
-  }
-}
-
-
 /* ============= end-header =============*/
 
 /* ============= start-about =============*/
