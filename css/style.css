@@ -231,6 +231,8 @@ li{
 }
 @media screen and (max-width:480px){
   #home .banner-content {
+     padding-bottom:0.5em !important;
+    margin-bottom:0.5em !important;	  
     align-items:center;
     justify-content: center;
   }
