@@ -24,9 +24,9 @@ $(window).on('scroll',function(){
   let aboutOffset = $('#home').offset().top; 
 
   if (windowScroll > aboutOffset ){
-    $('#mainNav').css({'background-color':'white','padding-inline':'40px'})
+    $('#mainNav').css({'background-color':'white'})
   }else{
-    $('#mainNav').css({'background-color':'transparent','padding-inline':'0px'})
+    $('#mainNav').css({'background-color':'transparent'})
   }
 
 })
