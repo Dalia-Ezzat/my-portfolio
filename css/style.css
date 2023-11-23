@@ -235,7 +235,9 @@ li{
     margin-top: 1em;
    
   }
- 
+ #home .home-img{
+    display: none !important;
+}
 }
 @media screen and (max-width:767px) {
 #home .home-img{
